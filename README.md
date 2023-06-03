@@ -65,7 +65,7 @@
 
 # Big Data Fundamentals with PySpark
 
-[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/06530532e301ebca7a6b5507637918b1d61592b9)
+<!-- [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/06530532e301ebca7a6b5507637918b1d61592b9) -->
 
 ### Introduction to Big Data analysis with Spark
 
@@ -137,7 +137,7 @@
 
 # Cleaning Data with PySpark
 
-[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4a9d2b3a3b3481f9736e402d5e945e3c9c00ebaf)
+<!-- [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4a9d2b3a3b3481f9736e402d5e945e3c9c00ebaf) -->
 
 ### DataFrame details
 
@@ -281,7 +281,7 @@
 
 # Machine Learning with PySpark
 
-[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4a9d2b3a3b3481f9736e402d5e945e3c9c00ebaf)
+<!-- [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4a9d2b3a3b3481f9736e402d5e945e3c9c00ebaf) -->
 
 ### Introduction
 
@@ -353,7 +353,7 @@
 
 # Building Recommendation Engines with PySpark
 
-[Certificate](https://www.datacamp.com/statement-of-accomplishment/course/c45fe95859d06f3e33c35db73c52074f059c959b)
+<!-- [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/c45fe95859d06f3e33c35db73c52074f059c959b) -->
 
 ### Recommendations Are Everywhere
 
